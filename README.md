@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Henry
+- 📍 Bristol, UK
+- 📫 henrypercydev@gmail.com
+- 💻 HTML CSS JS REACT PHP SQL 
+- 📚 I am currently learning Fullstack Developemnt at iO Academy in Bath
+- 👨‍💻 I am ready an eager to take on a Junior Software Developer role January 2023
