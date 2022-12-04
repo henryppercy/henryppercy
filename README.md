@@ -11,8 +11,6 @@
       <img src="https://img.shields.io/badge/-Portfolio-brightgreen/?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=henryppercy&style=for-the-badge&color=brightgreen" alt=""/>
-
 </div>
 
 ### :man_technologist: About Me :
