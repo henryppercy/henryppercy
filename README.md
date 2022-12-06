@@ -31,7 +31,7 @@ let henry = {
   tools: [React, Node, Express, Slim],
   databases: [MySQL, MongoDB],
   testing: [Jest, PHPUnit],
-  }
+}
 ```
 
 ### ⌨️ Languages and Frameworks :
