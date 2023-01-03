@@ -15,11 +15,11 @@
 
 ### :man_technologist: About Me :
 
-I'm a Fullstack Software Developer currently based in Bristol, UK
+I'm a Fullstack Software Developer currently based in London, UK
 
 ```javascript
 let henry = {
-  locations: "Bristol" | "London",  
+  locations: "London",  
   pronouns: "he" | "him",
   education: {
       bootcamp: "iO Academy - Full Stack Track",
