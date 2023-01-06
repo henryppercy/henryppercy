@@ -19,7 +19,7 @@ I'm a Fullstack Software Developer currently based in London, UK
 
 ```javascript
 let henry = {
-  locations: "London",  
+  location: "London",  
   pronouns: "he" | "him",
   education: {
       bootcamp: "iO Academy - Full Stack Track",
