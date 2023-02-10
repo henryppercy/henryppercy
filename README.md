@@ -26,7 +26,7 @@ let henry = {
       bachelorsDegree: "UWE - Geography",
     },
   email: "henrypercydev@gmail.com",
-  jobHunting: true,
+  jobHunting: false,
   languages: [Javascript, Typescript, PHP, HTML, CSS, SASS],
   tools: [React, Node, Express, Slim],
   databases: [MySQL, MongoDB],
