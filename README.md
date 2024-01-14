@@ -17,3 +17,4 @@ let henry = {
   testing: ["PHPUnit", "PEST"],
 }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryppercy&layout=compact)
